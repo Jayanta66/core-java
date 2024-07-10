@@ -1,0 +1,13 @@
+package controllStatement.ifElse.a;
+
+public class MyCharRunner {
+	
+	public static void main(String[] args) {
+
+		MyChar myChar = new MyChar('a');
+		System.out.println(myChar.isVowel());
+		
+	}
+
+}
+
