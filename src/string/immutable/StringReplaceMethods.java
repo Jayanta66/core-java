@@ -19,7 +19,6 @@ public class StringReplaceMethods {
     System.out.println("replace : "+s.replace("l", "k"));
 	System.out.println("toUpperCase : "+s.toUpperCase());
 	System.out.println("toLowerCase : "+s.toLowerCase());
-	System.out.println("Jayanta");
 
 	}
 
